@@ -8,6 +8,7 @@ scrapy = "*"
 selenium = "*"
 ipykernel = "*"
 jupyter = "*"
+pandas = "*"
 
 [dev-packages]
 
