@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 scrapy = "*"
 selenium = "*"
+ipykernel = "*"
+jupyter = "*"
 
 [dev-packages]
 
